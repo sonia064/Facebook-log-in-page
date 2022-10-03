@@ -1,0 +1,232 @@
+
+body{
+    background-color: rgba(246, 250, 193, 0.914);
+    }
+
+    .box3{
+
+
+        height: 380px;
+            width: 420px;
+            background-color: white;
+         
+            border-radius: 5px;
+            display: inline-block;
+        
+            box-shadow: 1px 1px 3px 5px rgba(231, 231, 231, 0.929);
+            margin-left: 270px;
+            margin-top: 130px;
+            
+        
+        
+    }   
+
+    .box2{
+
+        height: 80px;
+    width: 50px;
+    background-color: white;
+ 
+    border-radius: 5px;
+    padding: 70px;
+    box-shadow: 1px 1px 3px 5px rgba(246, 243, 243, 0.929);
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom:90px ;
+        
+    }       
+
+.box1{
+    height: 80px;
+    width: 50px;
+    background-color: white;
+   
+    border-radius: 5px;
+    padding: 70px;
+    box-shadow: 1px 1px 3px 5px rgba(246, 243, 243, 0.929);
+    display: inline-block;
+    margin-left: 190px;
+    margin-bottom:90px ;
+   
+    
+    
+}   
+
+.log{
+    height: 50px;
+    width: 370px;
+    background-color: rgb(221, 240, 255);
+    margin-left: 627px;
+   position: absolute;
+   margin-top: -120px;
+   border-radius: 5px;
+   box-shadow: 1px 1px 3px 4px rgba(233, 233, 233, 0.929);
+ 
+}
+
+
+.log2{
+    height: 50px;
+    width: 370px;
+    background-color: rgb(221, 240, 255);
+    margin-left: 627px;
+   position: absolute;
+   margin-top: -45px;
+   border-radius: 5px;
+   box-shadow: 1px 1px 3px 4px rgba(233, 233, 233, 0.929);
+ 
+}
+
+.log3{
+    height: 50px;
+    width: 378px;
+    background-color: rgb(60, 99, 242);
+    margin-left: 627px;
+   position: absolute;
+   margin-top: 30px;
+   border-radius: 5px;
+   box-shadow: 1px 1px 3px 4px rgba(233, 233, 233, 0.929);
+   font-size: large;
+   font-weight: 800;
+   color: aliceblue;
+ 
+}
+
+
+.log4{
+   
+    margin-left: 735px;
+   position: absolute;
+   margin-top: 100px;
+   border-radius: 5px;
+   
+   font-size: large;
+   font-weight: 800;
+   color: rgb(44, 92, 224);
+ 
+}
+
+
+.log5{
+   
+    margin-left: 650px;
+   position: absolute;
+   margin-top: 125px;
+   border-radius: 5px;
+   
+   font-size: large;
+   font-weight: 800;
+   color: rgb(92, 101, 125);
+ 
+}
+
+.log6{
+    height: 50px;
+    width: 220px;
+    background-color: rgb(10, 208, 109);
+    margin-left: 710px;
+   position: absolute;
+   margin-top: 165px;
+   border-radius: 5px;
+   box-shadow: 1px 1px 3px 4px rgba(233, 233, 233, 0.929);
+   font-size: large;
+   font-weight: 600;
+   color: aliceblue;
+ 
+}
+
+.fb
+{
+    font-size: 52px;
+    font-weight: bold;
+    color: blue;
+    margin-left: 190px;
+    margin-top: 50px;
+    position: absolute;
+}
+
+
+.fb1
+{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(4, 4, 10);
+    margin-left: 190px;
+    margin-top: 117px;
+    position: absolute;
+}
+
+.fb2
+{
+    font-size: 18px;
+    font-weight: 100;
+    color: rgb(35, 35, 59);
+    margin-left: 190px;
+    margin-top: 155px;
+    position: absolute;
+}
+
+
+.create
+{
+    margin-left: 950px;
+    font-size: medium;
+}
+
+
+.round
+{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(55, 55, 247);
+    position: relative;
+    border-radius: 50%;
+    margin-top: -285px;
+    margin-left: 470px;
+    text-align: center;
+    font-size: 47px;
+    color: aliceblue;
+    font-weight: 900;
+    
+}
+
+.add
+{
+    height: 40px;
+    width: 190px;
+    background-color: rgb(179, 245, 239);
+    position: absolute;
+    text-align: center;
+    margin-left: 405px;
+    margin-top: 7px;
+    color: blue;
+    font-size: 23px;
+    font-weight: 900;
+    border-radius: 3px;
+
+}
+
+.add1
+{
+    height: 40px;
+    width: 190px;
+    background-color: rgb(179, 245, 239);
+    position: absolute;
+    text-align: center;
+    margin-left: 191px;
+    margin-top: 7px;
+    color: rgb(7, 7, 8);
+    font-size: 23px;
+    font-weight: 900;
+    border-radius: 3px;
+
+}
+
+.pic
+{
+    height: 183px;
+    position: absolute;
+    margin-top: -176px;
+    margin-left: 192px;
+    width: 189px;
+}
